@@ -27,7 +27,7 @@ Make sure you have docker and docker-compose installed [docker installation guid
 ## Step 1
 create **.env** file in root folder 4create-test/.env
 ```
-DATABASE_URL=postgresql+psycopg://postgres:password@db:5432/boiler_plate_db
+DATABASE_URL=postgresql+psycopg://postgres:password@db:5432/4create_test_db
 DB_USER=postgres
 DB_PASSWORD=password
 DB_NAME=4create_test_db
